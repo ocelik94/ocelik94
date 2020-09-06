@@ -45,5 +45,3 @@ Hi there, I'm **Okan Celik**, a **junior devops engineer** at REWE Systems GmbH 
 
 
 ![Okans's github stats](https://github-readme-stats.vercel.app/api?username=andrioshe&show_icons=true&hide_border=true)
-
-⭐️ From [Andrioshe](https://github.com/andrioshe)
