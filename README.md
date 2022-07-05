@@ -45,3 +45,4 @@ Hi there, I'm **Okan Celik**, a **devops engineer and it-developer** at REWE Sys
 
 
 ![Okans's github stats](https://github-readme-stats.vercel.app/api?username=andrioshe&show_icons=true&hide_border=true)
+![](https://komarev.com/ghpvc/?username=andrioshe)
