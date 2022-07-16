@@ -42,7 +42,4 @@ Hi there, I'm **Okan Celik**, a **devops engineer and it-developer** at REWE Sys
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
-
-
-![Okans's github stats](https://github-readme-stats.vercel.app/api?username=andrioshe&show_icons=true&hide_border=true)
 ![](https://komarev.com/ghpvc/?username=andrioshe)
