@@ -13,7 +13,7 @@
 <br />
 <br />
 
-Hi there, I'm **Okan Celik**, a **devops engineer and it-developer** at REWE Systems GmbH and a **computer science student (M.Sc)** 🚀 from Cologne (Germany) 👨🏽‍💼. 
+Hi there, I'm **Okan Celik**, a **devops and cloud consultant** at MT AG and a **computer science student (M.Sc)** 🚀 from Cologne (Germany) 👨🏽‍💼. 
 
   <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
