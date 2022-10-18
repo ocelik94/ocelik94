@@ -20,7 +20,7 @@ Hi there, I'm **Okan Celik**, a **devops and cloud consultant** at MT AG and a *
 **Talking about Personal Stuffs:**
 
 - 👨🏽‍💻 I’m currently working on multiple personal projects;
-- 🌱 I’m currently learning python, golang and kubernetes; 
+- 🌱 I’m currently learning IaC with Terraform, Azure and advanced skills in kubernetes; 
 - 🤔 My interests are with Natural Language Processing/Understanding, Computer vision, Cloud, DevOps, Reinforcement Learning, etc..;
 - 💼 I’m pursuing a Master's degree in computer science in cologne;
 - 💬 Ask me about anything, I am happy to help;
