@@ -24,7 +24,7 @@ Hi there, I'm **Okan Celik**, a **devops and cloud consultant** at MT AG and a *
 - 🤔 My interests are with Natural Language Processing/Understanding, Computer vision, Cloud, DevOps, Reinforcement Learning, etc..;
 - 💼 I’m pursuing a Master's degree in computer science in cologne;
 - 💬 Ask me about anything, I am happy to help;
-- 📫 Please email via okan.celik@mailbox.org to reach me.
+- 📫 Please email via okan@celik.tech to reach me.
 
 
 **Languages and Tools:**  
