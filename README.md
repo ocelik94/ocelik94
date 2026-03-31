@@ -40,7 +40,7 @@ I like systems that are **repeatable**, **observable**, and **boringly reliable*
 <details>
   <summary><b>☁️ Cloud</b> (click)</summary>
 
-- AWS / Azure (tell me which one is your primary and I’ll tailor the README)
+- AWS / Azure / GCP
 - Networking, IAM, scalable patterns, cost awareness
 
 </details>
